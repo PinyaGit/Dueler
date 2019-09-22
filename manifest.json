@@ -1,0 +1,17 @@
+{
+    "files": {
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "README.md": "91a6fa57805f9109fcdbcff38d14adbdef39e767224e02e7dae86a359aa004b0",
+        "index.js": "1447a9f512e538251cc6fe04f378bc965fa8bfc13e2345ecaaf8ebc4494635af",
+        "module.json": "52603d8d20874a2a9f064916764662e3402b1bc409a9192b1592eb311b8183ba"
+    },
+    "defs": {
+        "C_ACCEPT_CONTRACT": 1,
+        "C_DUEL_CANCEL": 1,
+        "C_LEAVE_GROUP_DUEL": 1,
+        "C_REQUEST_CONTRACT": 1,
+        "S_CHANGE_RELATION": 1,
+        "S_DUEL_END": 1,
+        "S_REQUEST_CONTRACT": 1
+    }
+}
